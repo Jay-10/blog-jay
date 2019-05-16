@@ -1,0 +1,64 @@
+html,body{
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+
+}
+header{
+	background-color: #00004c;
+	padding: 25px;
+	
+}
+h1{
+	font-size: 90px;
+	color: white;
+	text-align: center;
+	color: orange;
+
+}
+header img{
+	 height: 200px;
+  width: 20%;
+  border:10px solid #cc0000;
+}
+
+.content{
+	background-image: url("images/videoblocks-grey-and-white-tech-geometric-motion-background-video-seamless-looping-animation-ultra-hd-4k-3840x2160_rlto8zupg_thumbnail-full01.png");
+	max-width: auto;
+	margin: 0 auto;
+	padding:0 20px;
+	
+}
+h2{
+	color: #0d055e;
+}
+p.caption{
+			color: lightgrey;
+			font-size:12px;
+			font-style: italic;
+			}
+img.big-image{
+	width: 100%;
+
+}
+img.small-image{
+	padding-left: 450px;
+}
+footer{
+	background-color: #00004c;
+	padding: 15px;
+	margin-top: 20px;
+
+}
+
+
+
+
+footer ul li{
+	color: white;
+	text-align: center;
+	display: inline-block;
+	margin: 0 5px;
+	font-size: 12px;
+	font-style: italic;
+}
