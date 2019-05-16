@@ -1,0 +1,16 @@
+body{
+	 height: 100%;
+  	 width: 100%;
+	 background-image:url("https://wallpaper-gallery.net/images/hearts-wallpaper-background/hearts-wallpaper-background-9.jpg");
+	 background-size: 100%;
+}
+h1{
+	color: red;
+	font-style: italic;
+	font-size: 90px;
+}
+p{
+	color: blue;
+	font-style: italic;
+	font-size: 40px;
+}
